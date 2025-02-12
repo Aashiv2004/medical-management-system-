@@ -1,4 +1,3 @@
-```markdown
 # 🏥 Medical Management System
 
 A comprehensive medical management solution built using **Java** and **MySQL**, designed to handle medicine sales, supplier information, drug availability monitoring, and compliance checks. It features real-time updates, easy-to-use interfaces, and a robust backend for healthcare providers.
